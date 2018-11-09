@@ -18,7 +18,7 @@ The goal of this mod is to ascend, create an altar with the new death drops of t
 
 The "big three" Roguelikes have been a great influence in this mod, see if you can spot the references!
 
-CHANGES
+>CHANGES
 
 Changed Hell spire arena layout and added a new level (and new loot to both!) with a new boss in a secret location. Look closely!
 
@@ -28,7 +28,7 @@ Edited and added some items, recipes and constructions relating to the Arcana mo
 
 Finally added a win condition to DDA for those survivors that already have explored everything and want to do one final quest.
 
-INSTALLATION
+>INSTALLATION
 
 Download latest release from github link
 
