@@ -18,9 +18,9 @@ The goal of this mod is to ascend, create an altar with the new death drops of t
 
 The "big three" Roguelikes have been a great influence in this mod, see if you can spot the references!
 
->>CHANGES
+>CHANGES
 
->Changed Hell spire arena layout and added a new level (and new loot to both!) with a new boss in a secret location. Look closely!
+Changed Hell spire arena layout and added a new level (and new loot to both!) with a new boss in a secret location. Look closely!
 
 Edited the strange temple treasure room to give more useful items and a specific item that's vital for the end of the quest.
 
