@@ -8,7 +8,7 @@ Thanks for downloading the mod, and even moreso for taking the time to read this
 
 This mod requires PK's Rebalance mod and the Arcana mod to load. You can find the updated github links here:
 
-https://github.com/Siyalatas/PKs_Rebalancing 108 (updated less often, a lot of QoL changes)
+https://github.com/Siyalatas/PKs_Rebalancing (updated less often, a lot of QoL changes)
 
 https://github.com/Dissociativity/PKs_Rebalancing (bleeding edge)
 
