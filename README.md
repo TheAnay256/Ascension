@@ -2,7 +2,7 @@
 
 Ascension Mod for C:DDA
 
-Readme updated 8/12/18
+Readme updated 8/12/18 (This mod does NOT work with DDA 0.D!)
 
 Thanks for downloading the mod, and even moreso for taking the time to read this, to sweeten the deal, I'll pepper this file with some tips and minor spoilers so you don't get bored and get a headstart on the mod.
 
