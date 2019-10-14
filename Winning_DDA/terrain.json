@@ -2,6 +2,7 @@
     {
         "type" : "terrain",
         "id" : "t_altar",
+        "description": "",
         "name": "macabre altar",
         "symbol": "#",
         "color": "red",
@@ -11,6 +12,7 @@
         "type" : "terrain",
         "override": true,
         "id" : "t_secretdoor_wall_c",
+        "description": "",
         "name": "solid rock",
         "symbol": "#",
         "color": "white",
@@ -34,6 +36,7 @@
         "type" : "terrain",
         "override": true,
         "id" : "t_window_stained_green",
+        "description": "",
         "name": "high stained glass window",
         "symbol": "\"",
         "color": "light_green",
@@ -44,6 +47,7 @@
         "type" : "terrain",
         "override": true,
         "id" : "t_window_stained_red",
+        "description": "",
         "name": "high stained glass window",
         "symbol": "\"",
         "color": "light_red",
@@ -54,6 +58,7 @@
         "type" : "terrain",
         "override": true,
         "id" : "t_window_stained_blue",
+        "description": "",
         "name": "high stained glass window",
         "symbol": "\"",
         "color": "light_blue",
@@ -63,6 +68,7 @@
     },{
         "type" : "terrain",
         "id" : "t_secretdoor_wall_o",
+        "description": "",
         "name": "open secret door",
         "symbol": ".",
         "color": "yellow",
@@ -85,6 +91,7 @@
 },{
         "type" : "terrain",
         "id" : "t_secretdoor_brick_wall_o",
+        "description": "",
         "name": "open secret",
         "symbol": ".",
         "color": "yellow",
@@ -107,6 +114,7 @@
 },{
         "type" : "terrain",
         "id" : "t_secretdoor_brick_wall_c",
+        "description": "",
         "name": "wall",
         "override": true,    
         "symbol": "\"",
