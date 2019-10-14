@@ -8,13 +8,13 @@ Thanks for downloading the mod, and even moreso for taking the time to read this
 
 This mod requires PK's Rebalance mod and the Arcana mod to load. You can find the updated github links here:
 
-https://github.com/Siyalatas/PKs_Rebalancing (updated less often, a lot of QoL changes)
-
-https://github.com/Dissociativity/PKs_Rebalancing (bleeding edge)
+https://github.com/Dissociativity/PKs_Rebalancing
 
 Adds a lot of dangerous monsters and locations.
 
 https://github.com/chaosvolt/cdda-arcana-mod 
+
+
 Magic, arcane energies, eldritch monsters from far beyond the veil and lots of new locations, items and mechanics.
 
 Thanks to all the creators and maintainers of these mods who have given me the opportunity to make this. It is a honor to work with you and I want to tell you that I have enjoyed all your mods immensely, I couldn't have done this without your help.
