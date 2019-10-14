@@ -2,6 +2,7 @@
     {
         "type" : "furniture",
         "id" : "f_hallowed_altar",
+        "description": "",
         "name": "hallowed altar",
         "symbol": "#",
         "color": "yellow_red",
