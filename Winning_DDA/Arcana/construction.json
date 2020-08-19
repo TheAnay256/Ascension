@@ -1,6 +1,7 @@
 [
     {
         "type" : "construction",
+        "id": "constr_t_altar",
         "description" : "Erect Altar",
         "category" : "CONSTRUCT",
         "required_skills" : [
@@ -21,6 +22,7 @@
         "post_terrain" : "t_altar"
     },    {
         "type" : "construction",
+        "id": "constr_f_hallowed_altar",
         "description" : "Hallow Altar",
         "category" : "CONSTRUCT",
         "required_skills" : [ [ "magic", 10 ] ],

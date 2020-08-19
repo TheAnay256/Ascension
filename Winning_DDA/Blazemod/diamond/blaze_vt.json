@@ -33,14 +33,14 @@
     "color" : "white",
     "skill" : "launcher",
     "range" : 30,
-    "ranged_damage" : 100,
+    "ranged_damage": { "damage_type": "heat", "amount": 100 },
     "pierce" : 50,
     "dispersion" : 150,
     "sight_dispersion" : 150,
     "reload" : 1000,
     "recoil" : 0,
     "ups_charges" : 200,
-    "ammo_effects" : ["LASER", "WIDE", "FLAME", "DRAW_AS_LINE"],
+    "ammo_effects" : ["LASER", "WIDE", "DRAW_AS_LINE"],
     "modes" : [
       ["DEFAULT", "single", 1]
     ]
