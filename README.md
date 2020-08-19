@@ -1,5 +1,7 @@
 
 
+TENTATIVELY updated for 0.E experimental
+
 Ascension Mod for C:DDA
 
 Readme updated 14/10/19 (This mod *does* work with DDA 0.D now!)
